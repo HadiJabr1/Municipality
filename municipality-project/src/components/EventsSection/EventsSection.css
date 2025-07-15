@@ -1,0 +1,17 @@
+.events-section {
+  padding: 60px 0;
+  margin-top: 15%;
+}
+
+.section-title h2{
+    font-size: 1.8rem;
+  text-align: left;
+  margin-bottom: 30px;
+  font-weight: 400;
+  color: black;
+}
+.events-list {
+
+  display: block;
+}
+

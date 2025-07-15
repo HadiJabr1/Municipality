@@ -1,0 +1,94 @@
+/* src/components/QuickAccess.css */
+.quick-access {
+  padding: 60px 0;
+  background-color: #fff;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
+  
+}
+
+.section-heading {
+  font-size: 1.7rem;
+  text-align: left;
+  margin-bottom: 30px;
+  font-weight: 650;
+  color: black;
+}
+
+.carousel-wrapper {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  left: 20%;
+
+}
+
+.carousel {
+  display: flex;
+  gap: 25px;
+  overflow-x: auto;
+  scroll-behavior: smooth;
+  padding: 10px 0;
+  scrollbar-width: none;
+}
+
+.carousel::-webkit-scrollbar {
+  display: none;
+}
+
+.carousel-card {
+  flex: 0 0 auto;
+  width: 160px;
+  height: 160px;
+  background-color: #f1f5f9;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+  transition: transform 0.3s ease;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.carousel-card:hover {
+  transform: translateY(-5px);
+}
+
+.carousel-card img {
+  width: 100px;
+  height: 60px;
+  object-fit: contain;
+  margin-bottom: 10px;
+}
+
+.carousel-card p {
+  font-size: 0.95rem;
+  color: #1f2937;
+  font-weight: 500;
+  margin: 0;
+}
+
+.carousel-arrow {
+  border: none;
+  background-color: white;
+  color: #2563eb;
+  font-size: 1.2rem;
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 50%;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  transition: background 0.3s ease;
+}
+
+.carousel-arrow:hover {
+  background-color: #e0e7ff;
+}
+
+.carousel-arrow.left {
+  margin-right: 10px;
+}
+
+.carousel-arrow.right {
+  margin-left: 10px;
+}

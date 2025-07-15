@@ -1,0 +1,126 @@
+
+
+.header-container1 {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0rem 2rem;
+  margin-top: 100px;
+}
+
+.logo-container1 {
+  display: flex;
+  align-items: center;
+  left: -2%;
+  position: relative;
+  gap: 15px;
+}
+
+.municipality-logo1 {
+  height: 50px;
+  width: 50px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 2px solid black;
+ width:80px;
+ height: 80px;
+}
+
+.logo-container1 h1 {
+  font-size: 1.8rem;
+  font-weight: 700;
+  letter-spacing: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+}
+
+.main-nav1 ul {
+  display: flex;
+  list-style: none;
+  gap: 1.5rem;
+  margin: 40px;
+  padding: 5px;
+  position: relative;
+  right: 35%;
+  gap: 15px;
+  
+}
+
+.main-nav1 a {
+  color: black;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 1rem;
+  transition: color 0.3s ease;
+  position: relative;
+  padding: 5px 0;
+  letter-spacing: 1px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.main-nav a:hover {
+  color: #f59e0b;
+}
+
+.main-nav1 a::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background-color: #f59e0b;
+  transition: width 0.3s ease;
+ 
+}
+
+.main-nav1 a:hover::after {
+  width: 100%;
+}
+
+@media (max-width: 992px) {
+  .logo-container1 h1 {
+    font-size: 1.5rem;
+  }
+  
+  .main-nav1 ul {
+    gap: 1rem;
+    
+  }
+}
+
+@media (max-width: 768px) {
+  .header-container1 {
+    flex-direction: column;
+    padding: 1rem;
+  }
+  
+  .logo-container1 {
+    margin-bottom: 1rem;
+  }
+  
+  .main-nav1 ul {
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.8rem;
+   
+  }
+}
+
+@media (max-width: 480px) {
+  .logo-container1 {
+    flex-direction: column;
+    text-align: center;
+  }
+  
+  .logo-container1 h1 {
+    font-size: 1.3rem;
+  }
+  
+  .municipality-logo1 {
+    margin-bottom: 8px;
+  }
+}
