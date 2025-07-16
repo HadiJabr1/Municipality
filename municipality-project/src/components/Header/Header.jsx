@@ -12,7 +12,7 @@ const Header = () => {
             alt="Municipality Logo" 
             className="municipality-logo"
           />
-          <h1>Municipality of BarelElias</h1>
+          <a href="/"><h1>Municipality of BarelElias</h1></a>
         </div>
         
         <nav className="main-nav">
