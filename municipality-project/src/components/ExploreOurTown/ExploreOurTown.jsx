@@ -29,7 +29,7 @@ const ExploreOurTown = () => {
 
         <Swiper
           modules={[Navigation, Pagination]}
-          spaceBetween={-50} // Adjusted spaceBetween for better overlap based on screenshot
+          spaceBetween={-50} 
           centeredSlides={true}
           loop={true}
           slidesPerView={3}

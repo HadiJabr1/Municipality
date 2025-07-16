@@ -11,7 +11,7 @@ const HeroSection = () => {
       <div className="hero-content">
         <h2>Municipality of Barellas</h2>
         <p>Your community hub for information, services, and engagement.</p>
-        <button className="btn-primary">Explore Services</button>
+       <a href='/services'> <button className="btn-primary">Explore Services</button></a>
       </div>
     </section>
   );

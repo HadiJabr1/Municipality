@@ -61,10 +61,12 @@
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.search-icon {
-  font-weight: bold;
+.search-icon1 {
+  right: -20px;
+  top: 50%;
+  color: black;
+  font-size: 18px;
 }
-
 .main-nav a:hover {
   color: #f59e0b;
 }

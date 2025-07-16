@@ -14,6 +14,7 @@ import image22 from '../../assets/images/image22.png';
 import image23 from '../../assets/images/image23.png';
 import image24 from '../../assets/images/image24.png';
 import image25 from '../../assets/images/image25.png';
+import image26 from '../../assets/images/image26.png';
 
 const categories = ['All Services', 'Public Works', 'Permits', 'Finance', 'Parks & Recreation'];
 
@@ -191,6 +192,7 @@ const CityServices = () => {
             ))
           ) : (
             <div className="no-results">
+              <img src={image26} alt="No results" />
               <p>No services found. Try a different search or category.</p>
             </div>
           )}

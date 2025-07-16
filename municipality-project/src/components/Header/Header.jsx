@@ -1,7 +1,7 @@
 import React from 'react';
 import './Header.css';
 import image13 from '../../assets/images/image13.jpg';
-
+import { FaSearch } from 'react-icons/fa';
 const Header = () => {
   return (
     <header className="municipality-header">
@@ -23,7 +23,7 @@ const Header = () => {
             <li><a href="#">Events</a></li>
             <li><a href="#">Report Issue</a></li>
             <li><a href="#">Contact</a></li>
-            <li><a href="#" className="search-icon">Q</a></li>
+            <li><a href="#" className="search-icon1"><FaSearch className="search-icon" /></a></li>
           </ul>
         </nav>
       </div>
