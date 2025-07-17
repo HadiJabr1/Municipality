@@ -21,75 +21,75 @@ const categories = ['All Services', 'Public Works', 'Permits', 'Finance', 'Parks
 const services = [
   {
     image: image14,
+    title: 'Report a Pothole',
+    description: 'Report potholes on city streets for repair.',
+    category: 'Public Works'
+  },
+  {
+    image: image15,
+    title: 'Apply for a Building Permit',
+    description: 'Apply for building permits for construction or renovation projects.',
+    category: 'Permits'
+  },
+  {
+    image: image16,
+    title: 'Pay Property Taxes',
+    description: 'Pay your property taxes online or in person.',
+    category: 'Finance'
+  },
+  {
+    image: image17,
+    title: 'Register for a Recreation Program',
+    description: 'Register for various recreation programs offered by the city.',
+    category: 'Parks & Recreation'
+  },
+  {
+    image: image18,
+    title: 'Request a Bulk Item Pickup',
+    description: 'Schedule a pickup for large items not covered by regular trash service.',
+    category: 'Public Works'
+  },
+  {
+    image: image19,
     title: 'View Zoning Regulations',
     description: 'View zoning regulations for different areas of the city.',
     category: 'Permits'
   },
   {
-    image: image15,
+    image: image20,
     title: 'Access Financial Reports',
     description: 'Access financial reports and budget information.',
     category: 'Finance'
   },
   {
-    image: image16,
+    image: image21,
     title: 'Reserve a Park Facility',
     description: 'Reserve facilities at city parks for events or gatherings.',
     category: 'Parks & Recreation'
   },
   {
-    image: image17,
-    title: 'Submit a Service Request',
-    description: 'Submit service requests for various issues or concerns.',
-    category: 'Public Works'
-  },
-  {
-    image: image18,
-    title: 'Check Permit Status',
-    description: 'Check the status of your permit applications.',
-    category: 'Permits'
-  },
-  {
-    image: image19,
+    image: image22,
     title: 'Manage Utility Payments',
     description: 'Manage your utility payments online.',
     category: 'Finance'
   },
   {
-    image: image20,
+    image: image23,
     title: 'Explore Community Events',
     description: 'Explore and register for community events and activities.',
     category: 'Parks & Recreation'
   },
   {
-    image: image21,
-    title: 'Report a Streetlight Issue',
-    description: 'Report malfunctioning or damaged streetlights.',
-    category: 'Public Works'
-  },
-  {
-    image: image22,
-    title: 'Apply for Business License',
-    description: 'Apply for or renew a business license.',
-    category: 'Permits'
-  },
-  {
-    image: image23,
-    title: 'View Tax Records',
-    description: 'Access property tax records and history.',
-    category: 'Finance'
-  },
-  {
     image: image24,
-    title: 'Reserve Sports Field',
-    description: 'Reserve athletic fields for games or practices.',
-    category: 'Parks & Recreation'
+    title: 'Submit a Service Request',
+    description: 'Submit service requests for various issues or concerns.',
+    category: 'Public Works'
   },
   {
     image: image25,
-    title: 'Request Tree Trimming',
-    description: 'Request trimming of city-owned trees.',
-    category: 'Public Works'
+    title: 'Check Permit Status',
+    description: 'Check the status of your permit applications.',
+    category: 'Permits'
   }
 ];
 

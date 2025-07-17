@@ -224,7 +224,7 @@ const NewsPage = () => {
             value={searchTerm}
             onChange={(e) => setSearchTerm(e.target.value)}
           />
-          <button className="search-icon">🔍</button>
+         
         </div>
       </div>
 
