@@ -228,13 +228,13 @@ h1 {
 }
 
 .news-title-link {
-  text-decoration: none; /* Remove underline for the link in header */
-  color: #555; /* Keep color subtle */
+  text-decoration: none; 
+  color: #555; 
 }
 
 .article-title {
-  font-size: 40px; /* Larger font size as in image */
-  font-weight: normal; /* Lighter font weight */
+  font-size: 40px;
+  font-weight: normal; 
   color: #333;
   margin-bottom: 10px;
   text-align: left;

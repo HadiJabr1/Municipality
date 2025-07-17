@@ -12,13 +12,7 @@ const newsArticles = [
     title: "Springfield's New Community Center Opens",
     description: "The new community center offers a variety of programs and activities for residents of all ages.",
     date: '2025-07-10',
-    detailImage: detailedArticleImage ,
-    detailContent: {
-      source: 'City of Springfield',
-      fullText: `The Springfield Community Center, a state-of-the-art facility, officially opened its doors today, welcoming residents of all ages for a wide array of programs and activities. The center features a modern gymnasium, multiple fitness studios, community rooms, and an indoor swimming pool. This initiative aims to foster community engagement and provide accessible recreational and educational opportunities. Local officials expressed their excitement about the new hub, emphasizing its role in promoting healthy lifestyles and strengthening community bonds. "This center is a testament to our commitment to the well-being of our citizens," stated Mayor Jane Doe during the ribbon-cutting ceremony. "It will serve as a vibrant gathering place for years to come."`,
-      quote: `"This center is a testament to our commitment to the well-being of our citizens," stated Mayor Jane Doe during the ribbon-cutting ceremony. "It will serve as a vibrant gathering place for years to come."`,
-      additionalInfo: `Future plans for the community center include expanding program offerings based on community feedback, hosting local events, and collaborating with various community organizations to maximize its utility. Residents are encouraged to visit the center and explore the diverse range of classes and facilities available.`
-    }
+    detailImage: detailedArticleImage 
   },
   {
     id: 2,
@@ -26,13 +20,7 @@ const newsArticles = [
     title: "City Council Approves New Budget",
     description: "The budget includes funding for infrastructure improvements, public safety, and community services.",
     date: '2025-07-05',
-    detailImage: detailedArticleImage ,
-    detailContent: {
-      source: 'City of Springfield',
-      fullText: `The City Council today unanimously approved the new fiscal year budget, allocating significant funds towards critical infrastructure improvements, enhanced public safety measures, and expanded community services. The budget prioritizes sustainable development and aims to address the growing needs of the city's residents. Discussions highlighted investments in road repairs, new park facilities, and increased staffing for emergency services. Mayor Robert Thompson commented, "This budget reflects our commitment to a prosperous and secure future for all Springfield residents. We believe these investments will yield substantial returns in quality of life."`,
-      quote: `"This budget reflects our commitment to a prosperous and secure future for all Springfield residents. We believe these investments will yield substantial returns in quality of life."`,
-      additionalInfo: `Key initiatives funded include a new police substation, a city-wide recycling program expansion, and increased funding for after-school programs for youth. The council emphasized transparency and public accountability in the budget's implementation.`
-    }
+    detailImage: detailedArticleImage 
   },
   {
     id: 3,
@@ -40,13 +28,7 @@ const newsArticles = [
     title: "Local Business Wins National Award",
     description: "A local business has been recognized for its innovation and contributions to the community.",
     date: '2025-06-28',
-    detailImage: detailedArticleImage ,
-    detailContent: {
-      source: 'City of Springfield',
-      fullText: `Tech Innovators Inc., a leading local tech firm, was honored with the prestigious National Innovation Award at a ceremony in New York City last night. The award recognizes their groundbreaking work in sustainable technology solutions and their significant positive impact on the local economy and community. CEO Sarah Chen accepted the award, thanking her dedicated team and the support from the Springfield community. "This award is a testament to the hard work and creativity of our entire team," said Chen. "We are proud to call Springfield our home and to contribute to its growth and innovation."`,
-      quote: `"This award is a testament to the hard work and creativity of our entire team," said Sarah Chen. "We are proud to call Springfield our home and to contribute to its growth and innovation."`,
-      additionalInfo: `Tech Innovators Inc. has been a strong advocate for STEM education in local schools and has launched several initiatives to mentor aspiring young entrepreneurs. The company plans to use this recognition to further expand its research and development efforts.`
-    }
+    detailImage: detailedArticleImage 
   },
   {
     id: 4,
@@ -54,13 +36,7 @@ const newsArticles = [
     title: "Parks Department Announces Summer Programs",
     description: "Enrollment is now open for a wide range of summer activities at local parks.",
     date: '2025-06-20',
-    detailImage: detailedArticleImage ,
-    detailContent: {
-      source: 'City of Springfield',
-      fullText: `The Springfield Parks Department has unveiled its exciting lineup of summer programs, designed to offer fun and engaging activities for all ages. From youth sports camps to adult fitness classes and guided nature walks, there's something for everyone. Online registration is now open, and early bird discounts are available for a limited time. "We encourage everyone to get outside and enjoy our beautiful parks this summer," said Parks Director Mark Johnson.`,
-      quote: `"We encourage everyone to get outside and enjoy our beautiful parks this summer," said Parks Director Mark Johnson.`,
-      additionalInfo: `Special events include a weekly concert series in Central Park and a family movie night series at various park locations throughout July and August.`
-    }
+    detailImage: detailedArticleImage 
   },
   {
     id: 5,
@@ -68,13 +44,7 @@ const newsArticles = [
     title: "Road Construction Project Begins Downtown",
     description: "Expect traffic delays as major infrastructure upgrades get underway.",
     date: '2025-06-15',
-    detailImage: detailedArticleImage ,
-    detailContent: {
-      source: 'City of Springfield',
-      fullText: `A major road construction project commenced today in the downtown area, leading to temporary road closures and expected traffic delays. The project aims to improve road surfaces, upgrade storm drains, and enhance pedestrian walkways. Detour routes will be clearly marked, and residents are advised to plan their commutes accordingly. The project is anticipated to be completed by late fall. "We understand that construction can be inconvenient, but these upgrades are essential for the long-term vitality of our downtown," stated Public Works Director Emily Davis.`,
-      quote: `"We understand that construction can be inconvenient, but these upgrades are essential for the long-term vitality of our downtown," stated Public Works Director Emily Davis.`,
-      additionalInfo: `Updates on project progress and any further traffic impacts will be regularly posted on the city's official website and social media channels.`
-    }
+    detailImage: detailedArticleImage 
   },
   {
     id: 6,
@@ -82,13 +52,7 @@ const newsArticles = [
     title: "Youth Soccer League Kicks Off New Season",
     description: "Hundreds of young athletes are ready to compete in this year's soccer league.",
     date: '2025-06-10',
-    detailImage: detailedArticleImage ,
-    detailContent: {
-      source: 'City of Springfield',
-      fullText: `The Springfield Youth Soccer League kicked off its new season this past weekend, with hundreds of enthusiastic young athletes taking to the fields across the city. The league promotes teamwork, sportsmanship, and physical activity among children aged 5-14. Parents and coaches alike expressed excitement for a fun and competitive season. "It's wonderful to see so many kids active and engaged," said League Coordinator Tom Green.`,
-      quote: `"It's wonderful to see so many kids active and engaged," said League Coordinator Tom Green.`,
-      additionalInfo: `The league will host games every Saturday morning through August, culminating in a championship tournament and awards ceremony.`
-    }
+    detailImage: detailedArticleImage 
   },
 ];
 
