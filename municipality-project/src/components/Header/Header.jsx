@@ -19,7 +19,7 @@ const Header = () => {
           <ul>
             <li><a href="/">Home</a></li>
             <li><a href="/services">Services</a></li>
-            <li><a href="#">News</a></li>
+            <li><a href="/news">News</a></li>
             <li><a href="#">Events</a></li>
             <li><a href="#">Report Issue</a></li>
             <li><a href="#">Contact</a></li>
