@@ -5,6 +5,7 @@ import Home from './pages/Home'
 import Services from './pages/Services'
 import News from './pages/News'
 import Contact from './pages/Contact'
+import Complaints from './pages/Complaints'
 import './App.css'
 import UpcomingEvents from './components/UpcomingEvents/UpcomingEvents'
 
@@ -22,6 +23,7 @@ function App() {
             <Route path="/news" element={<News />} />
             <Route path="/events" element={<UpcomingEvents />} />
             <Route path='/contact' element={<Contact/>}/>
+            <Route path='/complaints' element={<Complaints/>}/>
 
           </Routes>
         </main>
