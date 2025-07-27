@@ -20,9 +20,9 @@ const Header = () => {
             <li><a href="/">Home</a></li>
             <li><a href="/services">Services</a></li>
             <li><a href="/news">News</a></li>
-            <li><a href="#">Events</a></li>
+            <li><a href="/events">Events</a></li>
             <li><a href="#">Report Issue</a></li>
-            <li><a href="#">Contact</a></li>
+            <li><a href="/contact">Contact</a></li>
             <li><a href="#" className="search-icon1"><FaSearch className="search-icon" /></a></li>
           </ul>
         </nav>
