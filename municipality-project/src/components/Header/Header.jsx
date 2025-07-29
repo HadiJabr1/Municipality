@@ -23,7 +23,7 @@ const Header = () => {
             <li><a href="/events">Events</a></li>
             <li><a href="complaints">Public Complaints</a></li>
             <li><a href="/contact">Contact</a></li>
-            <li><a href="#" className="search-icon1"><FaSearch className="search-icon" /></a></li>
+            <li><a href="/admin/login" className="search-icon1"><FaSearch className="search-icon" /></a></li>
           </ul>
         </nav>
       </div>

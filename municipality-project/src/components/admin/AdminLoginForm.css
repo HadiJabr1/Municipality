@@ -1,0 +1,70 @@
+/* src/components/admin/AdminLoginForm.css */
+
+.admin-login-container {
+  height: 100vh;
+  background: url('../../assets/images/adminBack.jpg') center/cover no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.admin-login-box {
+  background: white;
+  padding: 40px;
+  border-radius: 15px;
+  width: 400px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+
+.admin-logo {
+  font-size: 2rem;
+  margin-bottom: 15px;
+}
+
+.admin-login-box h2 {
+  margin-bottom: 10px;
+}
+
+.admin-login-box h3 {
+  color: #007bff;
+  margin-bottom: 20px;
+}
+
+.admin-login-box input {
+  width: 100%;
+  padding: 12px;
+  margin: 10px 0;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
+
+.admin-login-box button {
+  width: 100%;
+  padding: 12px;
+  border: none;
+  background-color: #007bff;
+  color: white;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.admin-login-box button:hover {
+  background-color: #0056b3;
+}
+
+.admin-login-box a {
+  display: block;
+  margin-top: 15px;
+  font-size: 0.9rem;
+  color: #333;
+  text-decoration: underline;
+}
+.municipality-logo {
+  height: 50px;
+  width: 50px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 2px solid black;
+}
