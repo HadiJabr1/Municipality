@@ -1,7 +1,15 @@
+// src/components/Sidebar.jsx (updated services link)
 import React from 'react';
 import './Sidebar.css';
 import logo from '../../assets/images/image13.jpg';
-import { FaHome, FaNewspaper, FaCalendarAlt, FaHandsHelping, FaBullhorn, FaCog } from 'react-icons/fa';
+import { 
+  FaHome, 
+  FaNewspaper, 
+  FaCalendarAlt, 
+  FaHandsHelping, 
+  FaBullhorn, 
+  FaCog 
+} from 'react-icons/fa';
 import { Link, useLocation } from 'react-router-dom';
 
 const Sidebar = () => {
@@ -20,15 +28,23 @@ const Sidebar = () => {
       </div>
       <ul className="sidebar-menu">
         <li className={isActive('/dashboard') ? 'active' : ''}>
-          <Link to="dashboard"><FaHome /> Dashboard</Link>
+          <Link to="/admin/dashboard"><FaHome /> Dashboard</Link>
         </li>
         <li className={isActive('/news') ? 'active' : ''}>
-          <Link to="news"><FaNewspaper /> News</Link>
+          <Link to="/admin/news"><FaNewspaper /> News</Link>
         </li>
-        <li><FaCalendarAlt /> Events</li>
-        <li><FaHandsHelping /> Services</li>
-        <li><FaBullhorn /> Complaints</li>
-        <li><FaCog /> Settings</li>
+        <li className={isActive('/events') ? 'active' : ''}>
+          <Link to="/admin/events"><FaCalendarAlt /> Events</Link>
+        </li>
+        <li className={isActive('/services') ? 'active' : ''}>
+          <Link to="/admin/services"><FaHandsHelping /> Services</Link>
+        </li>
+        <li>
+          <FaBullhorn /> Complaints
+        </li>
+        <li>
+          <FaCog /> Settings
+        </li>
       </ul>
     </div>
   );

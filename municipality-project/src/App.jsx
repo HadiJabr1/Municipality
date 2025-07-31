@@ -1,3 +1,4 @@
+// src/App.js (updated)
 import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
 import Header from './components/Header/Header';
 import Footer from './components/Footer/Footer';
@@ -10,6 +11,9 @@ import AdminLogin from './pages/AdminLogin';
 import AdminLayout from './layouts/AdminLayout';
 import DashboardMain from './components/admin/DashboardMain';
 import AdminNews from './components/admin/News';
+import Events from './components/admin/Events';
+import AdminServices from './components/admin/Services'; // Import the new component
+
 import './App.css';
 import UpcomingEvents from './components/UpcomingEvents/UpcomingEvents';
 
@@ -17,7 +21,6 @@ function App() {
   return (
     <Router>
       <div className="app">
-        {/* Header shows on all pages except admin */}
         <Routes>
           <Route path="/admin/*" element={null} />
           <Route path="*" element={<Header />} />
@@ -25,7 +28,6 @@ function App() {
         
         <main>
           <Routes>
-            {/* Public routes */}
             <Route path="/" element={<Home />} />
             <Route path="/services" element={<Services />} />
             <Route path="/news" element={<News />} />
@@ -34,21 +36,19 @@ function App() {
             <Route path="/complaints" element={<Complaints />} />
             <Route path="/admin/login" element={<AdminLogin />} />
             
-            {/* Admin protected routes - nested under /admin with layout */}
             <Route path="/admin" element={<AdminLayout />}>
               <Route index element={<Navigate to="dashboard" replace />} />
               <Route path="dashboard" element={<DashboardMain />} />
-              <Route path="news" element={<AdminNews />} /> 
-              {/* Add more admin routes here as needed */}
+              <Route path="news" element={<AdminNews />} />
+              <Route path="events" element={<Events />} />
+              <Route path="services" element={<AdminServices />} /> {/* New route */}
             </Route>
             
-            {/* Redirects */}
             <Route path="/admin" element={<Navigate to="/admin/dashboard" replace />} />
             <Route path="*" element={<Navigate to="/" replace />} />
           </Routes>
         </main>
 
-        {/* Footer shows on all pages except admin */}
         <Routes>
           <Route path="/admin/*" element={null} />
           <Route path="*" element={<Footer />} />
