@@ -39,9 +39,10 @@ const Sidebar = () => {
         <li className={isActive('/services') ? 'active' : ''}>
           <Link to="/admin/services"><FaHandsHelping /> Services</Link>
         </li>
-        <li>
-          <FaBullhorn /> Complaints
-        </li>
+       <li className={isActive('/complaints') ? 'active' : ''}>
+  <Link to="/admin/complaints"><FaBullhorn /> Complaints</Link>
+</li>
+
         <li>
           <FaCog /> Settings
         </li>

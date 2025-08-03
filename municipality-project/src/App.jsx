@@ -13,6 +13,7 @@ import DashboardMain from './components/admin/DashboardMain';
 import AdminNews from './components/admin/News';
 import Events from './components/admin/Events';
 import AdminServices from './components/admin/Services'; // Import the new component
+import ComplaintsAdmin from './components/admin/Complaints';
 
 import './App.css';
 import UpcomingEvents from './components/UpcomingEvents/UpcomingEvents';
@@ -42,6 +43,7 @@ function App() {
               <Route path="news" element={<AdminNews />} />
               <Route path="events" element={<Events />} />
               <Route path="services" element={<AdminServices />} /> {/* New route */}
+              <Route path="complaints" element={<ComplaintsAdmin />} />
             </Route>
             
             <Route path="/admin" element={<Navigate to="/admin/dashboard" replace />} />
