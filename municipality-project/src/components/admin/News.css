@@ -35,19 +35,19 @@
 
 .edit-btn, .delete-btn {
   padding: 5px 10px;
-  border: none;
-  border-radius: 4px;
+  border-radius: 2px;
   cursor: pointer;
-  font-size: 14px;
+  
 }
 
 .edit-btn {
-  background-color: #4CAF50;
+  background-color: #338035;
   color: white;
+  font-size: 10px;
 }
 
 .delete-btn {
-  background-color: #f44336;
+  background-color: #c73227;
   color: white;
 }
 

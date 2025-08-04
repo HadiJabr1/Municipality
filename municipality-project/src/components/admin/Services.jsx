@@ -197,7 +197,7 @@ const Services = () => {
           </div>
           
           <div className="form-actions">
-            <button type="submit" className="save-btn">
+            <button type="submit" className="save-btn1">
               {editingId ? 'Update Service' : 'Save Service'}
             </button>
             <button 

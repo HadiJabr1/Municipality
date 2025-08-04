@@ -128,10 +128,10 @@
 }
 
 .delete-btn {
-  background: none;
+  background: red;
   border: none;
-  font-size: 35px;
-  color: red;
+  font-size: 10px;
+  color: white;
   cursor: pointer;
 }
 
