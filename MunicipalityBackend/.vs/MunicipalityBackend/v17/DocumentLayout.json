@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\intern(netways)\\MunicipalityBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E60BEFE-D12D-40CA-8487-191C723167A6}|Municipality.Business\\Municipality.Business.csproj|c:\\users\\hp\\desktop\\intern(netways)\\municipalitybackend\\municipality.business\\services\\inewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E60BEFE-D12D-40CA-8487-191C723167A6}|Municipality.Business\\Municipality.Business.csproj|solutionrelative:municipality.business\\services\\inewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E60BEFE-D12D-40CA-8487-191C723167A6}|Municipality.Business\\Municipality.Business.csproj|c:\\users\\hp\\desktop\\intern(netways)\\municipalitybackend\\municipality.business\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E60BEFE-D12D-40CA-8487-191C723167A6}|Municipality.Business\\Municipality.Business.csproj|solutionrelative:municipality.business\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E60BEFE-D12D-40CA-8487-191C723167A6}|Municipality.Business\\Municipality.Business.csproj|c:\\users\\hp\\desktop\\intern(netways)\\municipalitybackend\\municipality.business\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E60BEFE-D12D-40CA-8487-191C723167A6}|Municipality.Business\\Municipality.Business.csproj|solutionrelative:municipality.business\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E60BEFE-D12D-40CA-8487-191C723167A6}|Municipality.Business\\Municipality.Business.csproj|c:\\users\\hp\\desktop\\intern(netways)\\municipalitybackend\\municipality.business\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E60BEFE-D12D-40CA-8487-191C723167A6}|Municipality.Business\\Municipality.Business.csproj|solutionrelative:municipality.business\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E60BEFE-D12D-40CA-8487-191C723167A6}|Municipality.Business\\Municipality.Business.csproj|c:\\users\\hp\\desktop\\intern(netways)\\municipalitybackend\\municipality.business\\dtos\\complaintdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E60BEFE-D12D-40CA-8487-191C723167A6}|Municipality.Business\\Municipality.Business.csproj|solutionrelative:municipality.business\\dtos\\complaintdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689E81BF-95E9-4A5E-9ED5-D7FD6DAD7BCC}|Municipality.API\\Municipality.API.csproj|c:\\users\\hp\\desktop\\intern(netways)\\municipalitybackend\\municipality.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{689E81BF-95E9-4A5E-9ED5-D7FD6DAD7BCC}|Municipality.API\\Municipality.API.csproj|solutionrelative:municipality.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689E81BF-95E9-4A5E-9ED5-D7FD6DAD7BCC}|Municipality.API\\Municipality.API.csproj|c:\\users\\hp\\desktop\\intern(netways)\\municipalitybackend\\municipality.api\\controllers\\complaintscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{689E81BF-95E9-4A5E-9ED5-D7FD6DAD7BCC}|Municipality.API\\Municipality.API.csproj|solutionrelative:municipality.api\\controllers\\complaintscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689E81BF-95E9-4A5E-9ED5-D7FD6DAD7BCC}|Municipality.API\\Municipality.API.csproj|c:\\users\\hp\\desktop\\intern(netways)\\municipalitybackend\\municipality.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{689E81BF-95E9-4A5E-9ED5-D7FD6DAD7BCC}|Municipality.API\\Municipality.API.csproj|solutionrelative:municipality.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "INewsService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\intern(netways)\\MunicipalityBackend\\Municipality.Business\\Services\\INewsService.cs",
+              "RelativeDocumentMoniker": "Municipality.Business\\Services\\INewsService.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\intern(netways)\\MunicipalityBackend\\Municipality.Business\\Services\\INewsService.cs",
+              "RelativeToolTip": "Municipality.Business\\Services\\INewsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T18:53:10.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\intern(netways)\\MunicipalityBackend\\Municipality.Business\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Municipality.Business\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\intern(netways)\\MunicipalityBackend\\Municipality.Business\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "Municipality.Business\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T18:52:09.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\intern(netways)\\MunicipalityBackend\\Municipality.Business\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Municipality.Business\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\intern(netways)\\MunicipalityBackend\\Municipality.Business\\Services\\AuthService.cs",
+              "RelativeToolTip": "Municipality.Business\\Services\\AuthService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAASwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T18:51:49.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\intern(netways)\\MunicipalityBackend\\Municipality.Business\\Services\\EventService.cs",
+              "RelativeDocumentMoniker": "Municipality.Business\\Services\\EventService.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\intern(netways)\\MunicipalityBackend\\Municipality.Business\\Services\\EventService.cs",
+              "RelativeToolTip": "Municipality.Business\\Services\\EventService.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T18:51:08.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ComplaintDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\intern(netways)\\MunicipalityBackend\\Municipality.Business\\DTOs\\ComplaintDto.cs",
+              "RelativeDocumentMoniker": "Municipality.Business\\DTOs\\ComplaintDto.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\intern(netways)\\MunicipalityBackend\\Municipality.Business\\DTOs\\ComplaintDto.cs",
+              "RelativeToolTip": "Municipality.Business\\DTOs\\ComplaintDto.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA3wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T18:45:38.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\intern(netways)\\MunicipalityBackend\\Municipality.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Municipality.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\intern(netways)\\MunicipalityBackend\\Municipality.API\\appsettings.json",
+              "RelativeToolTip": "Municipality.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-03T10:46:54.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ComplaintsController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\intern(netways)\\MunicipalityBackend\\Municipality.API\\Controllers\\ComplaintsController.cs",
+              "RelativeDocumentMoniker": "Municipality.API\\Controllers\\ComplaintsController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\intern(netways)\\MunicipalityBackend\\Municipality.API\\Controllers\\ComplaintsController.cs",
+              "RelativeToolTip": "Municipality.API\\Controllers\\ComplaintsController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T10:35:14.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\intern(netways)\\MunicipalityBackend\\Municipality.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Municipality.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\intern(netways)\\MunicipalityBackend\\Municipality.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Municipality.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T10:34:45.011Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

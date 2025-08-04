@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\intern(netways)\MunicipalityBackend\Municipality.Business\bin\Debug\net8.0\Municipality.Business.deps.json
+C:\Users\hp\Desktop\intern(netways)\MunicipalityBackend\Municipality.Business\bin\Debug\net8.0\Municipality.Business.dll
+C:\Users\hp\Desktop\intern(netways)\MunicipalityBackend\Municipality.Business\bin\Debug\net8.0\Municipality.Business.pdb
+C:\Users\hp\Desktop\intern(netways)\MunicipalityBackend\Municipality.Business\bin\Debug\net8.0\Municipality.Data.dll
+C:\Users\hp\Desktop\intern(netways)\MunicipalityBackend\Municipality.Business\bin\Debug\net8.0\Municipality.Data.pdb
+C:\Users\hp\Desktop\intern(netways)\MunicipalityBackend\Municipality.Business\obj\Debug\net8.0\Municipality.Business.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\intern(netways)\MunicipalityBackend\Municipality.Business\obj\Debug\net8.0\Municipality.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\intern(netways)\MunicipalityBackend\Municipality.Business\obj\Debug\net8.0\Municipality.Business.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\intern(netways)\MunicipalityBackend\Municipality.Business\obj\Debug\net8.0\Municipality.Business.AssemblyInfo.cs
+C:\Users\hp\Desktop\intern(netways)\MunicipalityBackend\Municipality.Business\obj\Debug\net8.0\Municipality.Business.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\intern(netways)\MunicipalityBackend\Municipality.Business\obj\Debug\net8.0\Municipa.0C0CA418.Up2Date
+C:\Users\hp\Desktop\intern(netways)\MunicipalityBackend\Municipality.Business\obj\Debug\net8.0\Municipality.Business.dll
+C:\Users\hp\Desktop\intern(netways)\MunicipalityBackend\Municipality.Business\obj\Debug\net8.0\refint\Municipality.Business.dll
+C:\Users\hp\Desktop\intern(netways)\MunicipalityBackend\Municipality.Business\obj\Debug\net8.0\Municipality.Business.pdb
+C:\Users\hp\Desktop\intern(netways)\MunicipalityBackend\Municipality.Business\obj\Debug\net8.0\ref\Municipality.Business.dll
